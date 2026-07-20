@@ -1,0 +1,10 @@
+{
+  "name": "Camera Room Designer",
+  "description": "Interactive mobile-friendly room decorator allowing live camera capture, tap-to-place items, AI interior design chat, sketch pad, and cart/save functionality.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
